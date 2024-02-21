@@ -1,11 +1,11 @@
-### Hi i am  👋
+### Hi i am Raj Dahayat 👋
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Introduction</title>
+    <!-- <title>GitHub Profile Introduction</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -48,7 +48,7 @@
             text-decoration: none;
             color: #333;
         }
-    </style>
+    </style> -->
 </head> 
 <body>
     <div class="container">
