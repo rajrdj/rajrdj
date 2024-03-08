@@ -52,7 +52,7 @@
 </head> 
 <body>
     <div class="container">
-        <h1>Hi there! 👋</h1>
+       
         <p>I'm Raj Dahayat, a passionate front-end web developer with a knack for creating engaging and user-friendly interfaces. Welcome to my GitHub profile!</p>
         <p>About Me</p>
         <p>I have a strong background in front-end development, with expertise in HTML, CSS, and JavaScript. I enjoy turning design concepts into beautiful, responsive websites and web applications that provide an exceptional user experience.</p> 
